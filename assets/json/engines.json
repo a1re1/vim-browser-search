@@ -1,8 +1,8 @@
 {
-  "grok (full)": "https://private.hubteam.com/opengrok/search?full=%s&defs=&refs=&path=&type=&si=full,
+  "grok (full)": "https://private.hubteam.com/opengrok/search?full=%s&defs=&refs=&path=&type=&si=full",
   "ghe": "https://git.hubteam.com/search?q=%s",
-  "grok (symbol)": "https://private.hubteam.com/opengrok/search?full=&defs=&refs=%s&path=&type=&si=full,
-  "grok (path)": "https://private.hubteam.com/opengrok/search?full=&defs=&refs=&path=%s&type=&si=full,
+  "grok (symbol)": "https://private.hubteam.com/opengrok/search?full=&defs=&refs=%s&path=&type=&si=full",
+  "grok (path)": "https://private.hubteam.com/opengrok/search?full=&defs=&refs=&path=%s&type=&si=full",
   "github (public)": "https://github.com/search?q=%s",
   "google": "https://google.com/search?q=%s",
   "stackoverflow": "https://stackoverflow.com/search?q=%s",
