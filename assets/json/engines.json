@@ -6,5 +6,5 @@
   "github (public)": "https://github.com/search?q=%s",
   "google": "https://google.com/search?q=%s",
   "stackoverflow": "https://stackoverflow.com/search?q=%s",
-  "arxiv": "https://arxiv.org/search/?query=%s&searchtype=all",
+  "arxiv": "https://arxiv.org/search/?query=%s&searchtype=all"
 }
